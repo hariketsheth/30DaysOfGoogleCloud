@@ -58,7 +58,7 @@
 
 ### * Track 2: Data Science and Machine Learning Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+- [x] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
     - [x] A Tour of Qwiklabs and Google Cloud
     - [x] Creating a Virtual Machine
     - [x] Getting Started with Cloud Shell and gcloud
@@ -98,9 +98,9 @@
     - [ ] Awwvision: Cloud Vision API from a Kubernetes Cluster
     - [ ] Integrate with Machine Learning APIs: Challenge Lab
 - [ ] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
-    - [ ] What is the What-If Tool?
-    - [ ] Getting Started with the What-If Tool
-    - [ ] AI Platform: Qwik Start
+    - [x] What is the What-If Tool?
+    - [x] Getting Started with the What-If Tool
+    - [x] AI Platform: Qwik Start
     - [ ] Using the What-If Tool with Image Recognition Models
     - [ ] Using the What-if Tool Performance & Fairness Features
     - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
