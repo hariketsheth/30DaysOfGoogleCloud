@@ -101,8 +101,8 @@
     - [x] What is the What-If Tool?
     - [x] Getting Started with the What-If Tool
     - [x] AI Platform: Qwik Start
-    - [ ] Using the What-If Tool with Image Recognition Models
-    - [ ] Using the What-if Tool Performance & Fairness Features
-    - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
-    - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
+    - [x] Using the What-If Tool with Image Recognition Models
+    - [x] Using the What-if Tool Performance & Fairness Features
+    - [x] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
+    - [x] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
     - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
