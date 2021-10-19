@@ -65,7 +65,7 @@
     - [x] Kubernetes Engine: Qwik Start
     - [x] Set Up Network and HTTP Load Balancers
     - [x] Create and Manage Cloud Resources: Challenge Lab
-- [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
+- [x] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
     - [x] AI Platform: Qwik Start
     - [x] Dataprep: Qwik Start
     - [x] Dataflow: Qwik Start - Templates
@@ -73,7 +73,7 @@
     - [x] Cloud Natural Language API: Qwik Start
     - [x] Google Cloud Speech API: Qwik Start
     - [x] Video Intelligence: Qwik Start
-    - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
+    - [x] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
 - [x] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
     - [x] Introduction to SQL for BigQuery and Cloud SQL
     - [x] BigQuery: Qwik Start - Console
@@ -97,7 +97,7 @@
     - [ ] Entity and Sentiment Analysis with the Natural Language API
     - [ ] Awwvision: Cloud Vision API from a Kubernetes Cluster
     - [ ] Integrate with Machine Learning APIs: Challenge Lab
-- [ ] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
+- [x] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
     - [x] What is the What-If Tool?
     - [x] Getting Started with the What-If Tool
     - [x] AI Platform: Qwik Start
@@ -105,4 +105,4 @@
     - [x] Using the What-if Tool Performance & Fairness Features
     - [x] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
     - [x] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
-    - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
+    - [x] Explore Machine Learning Models with Explainable AI: Challenge Lab
