@@ -90,9 +90,9 @@
     - [x] Cloud Composer: Copying BigQuery Tables Across Different Locations
     - [x] Engineer Data in Google Cloud: Challenge Lab
 - [ ] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
-    - [ ] Introduction to APIs in Google
-    - [ ] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
-    - [ ] Classify Text into Categories with the Natural Language API
+    - [x] Introduction to APIs in Google
+    - [x] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
+    - [x] Classify Text into Categories with the Natural Language API
     - [ ] Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
     - [ ] Entity and Sentiment Analysis with the Natural Language API
     - [ ] Awwvision: Cloud Vision API from a Kubernetes Cluster
