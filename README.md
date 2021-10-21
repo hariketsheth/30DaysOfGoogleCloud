@@ -81,14 +81,14 @@
     - [x] Troubleshooting Common SQL Errors with BigQuery
     - [x] Explore and Create Reports with Data Studio
     - [x] Insights from Data with BigQuery: Challenge Lab
-- [ ] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
-    - [ ] Creating a Data Transformation Pipeline with Cloud Dataprep
-    - [ ] Building an IoT Analytics Pipeline on Google Cloud
-    - [ ] ETL Processing on Google Cloud Using Dataflow and BigQuery
-    - [ ] Predict Visitor Purchases with a Classification Model in BQML
-    - [ ] Predict Housing Prices with Tensorflow and AI Platform
-    - [ ] Cloud Composer: Copying BigQuery Tables Across Different Locations
-    - [ ] Engineer Data in Google Cloud: Challenge Lab
+- [x] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
+    - [x] Creating a Data Transformation Pipeline with Cloud Dataprep
+    - [x] Building an IoT Analytics Pipeline on Google Cloud
+    - [x] ETL Processing on Google Cloud Using Dataflow and BigQuery
+    - [x] Predict Visitor Purchases with a Classification Model in BQML
+    - [x] Predict Housing Prices with Tensorflow and AI Platform
+    - [x] Cloud Composer: Copying BigQuery Tables Across Different Locations
+    - [x] Engineer Data in Google Cloud: Challenge Lab
 - [ ] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
     - [ ] Introduction to APIs in Google
     - [ ] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
